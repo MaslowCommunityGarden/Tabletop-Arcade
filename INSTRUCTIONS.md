@@ -7,23 +7,23 @@ Please note -
   <li>Most of the dimensions will probably be different for the hardware you are installing. Monitor, speakers, buttons.</li>
 </ul>
 
-![Parts](https://github.com/MaslowCommunityGarden/Tabletop-Arcade/blob/master/1.jpg?raw=true)
+![Parts](https://raw.githubusercontent.com/MaslowCommunityGarden/Tabletop-Arcade/master/1.jpg?raw=true)
 
-![inside](https://github.com/MaslowCommunityGarden/Tabletop-Arcade/blob/master/2.jpg?raw=true)
+![inside](https://raw.githubusercontent.com/MaslowCommunityGarden/Tabletop-Arcade/master/2.jpg?raw=true)
 
-![outside](https://github.com/MaslowCommunityGarden/Tabletop-Arcade/blob/master/3.jpg?raw=true)
+![outside](https://raw.githubusercontent.com/MaslowCommunityGarden/Tabletop-Arcade/master/3.jpg?raw=true)
 
-![monitor mount](https://github.com/MaslowCommunityGarden/Tabletop-Arcade/blob/master/4.jpg?raw=true)
+![monitor mount](https://raw.githubusercontent.com/MaslowCommunityGarden/Tabletop-Arcade/master/4.jpg?raw=true)
 
-![marquee 1](https://github.com/MaslowCommunityGarden/Tabletop-Arcade/blob/master/5.jpg?raw=true)
+![marquee 1](https://raw.githubusercontent.com/MaslowCommunityGarden/Tabletop-Arcade/master/5.jpg?raw=true)
 
-![marquee 2](https://github.com/MaslowCommunityGarden/Tabletop-Arcade/blob/master/6.jpg?raw=true)
+![marquee 2](https://raw.githubusercontent.com/MaslowCommunityGarden/Tabletop-Arcade/master/6.jpg?raw=true)
 
-![wires](https://github.com/MaslowCommunityGarden/Tabletop-Arcade/blob/master/7.jpg?raw=true)
+![wires](https://raw.githubusercontent.com/MaslowCommunityGarden/Tabletop-Arcade/master/7.jpg?raw=true)
 
-![Pi](https://github.com/MaslowCommunityGarden/Tabletop-Arcade/blob/master/8.jpg?raw=true)
+![Pi](https://raw.githubusercontent.com/MaslowCommunityGarden/Tabletop-Arcade/master/8.jpg?raw=true)
 
-![Fin](https://github.com/MaslowCommunityGarden/Tabletop-Arcade/blob/master/9.jpg?raw=true)
+![Fin](https://raw.githubusercontent.com/MaslowCommunityGarden/Tabletop-Arcade/master/9.jpg?raw=true)
 
 Hope this helps someone.
 
