@@ -1,7 +1,10 @@
-Edit this file to add assembly instructions
+The svg files included cover most of the panels except for the two on the back panel that were cut away from the Maslow. I used lots(>50) of little L brackets to fix the panels together.
 
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
+Please note -
+The holes for buttons are ALL the same size.
+Only cut pockets for the joystick mounts. Depth depends on thickness of material and length of fixings.
+Most of the dimensions will probably be different for the hardware you are installing. Monitor, speakers, buttons.
 
+Hope this helps someone.
 
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+Thanks!
