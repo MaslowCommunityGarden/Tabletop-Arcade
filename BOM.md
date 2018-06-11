@@ -1,7 +1,1 @@
-Edit this file to add a bill of materials
-
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
-
-
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+One useful source of parts for this type of cabnet is a controls package from [www.hollandcomputers.com](http://www.hollandcomputers.com/store/pc/viewPrd.asp?idproduct=6004&utm_source=google&utm_medium=cpc&adpos=1o1&scid=scplpRA-60-IN-1-KIT&sc_intid=RA-60-IN-1-KIT&gclid=Cj0KCQjwu_jYBRD8ARIsAC3EGCIUovRejy7dSAEZo0vjjXBBoCzpe9AQKwFvRhZ8-9t503YrFDqRgswaAgwEEALw_wcB)
