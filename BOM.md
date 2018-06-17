@@ -18,7 +18,6 @@
  <li>20inch VGA PC Monitor</li>
  <li>Logitech PC Speakers</li>
  <li>4 gang plug extention</li>
- <li>Logitech PC Speakers</li>
  <li>USB power adaptor</li>
  <li>Micro SD card</li>
 </ul>
