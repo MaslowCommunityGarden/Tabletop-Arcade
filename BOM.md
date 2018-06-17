@@ -1,8 +1,9 @@
-<h3>Materials</h3>
+<h3>Materials and Fixings</h3>
 <ul>
  <li>1 x Plywood sheet (TH)18MM (W)1220MM (L)2440MM <strong>£35</strong></li>
  <li>5 x Corner Braces, Zinc-plated 25 X 25 X 16.5MM 10 PACK <strong>£4.50</strong></li>
  <li>1 x Dulux interior black satinwood wood and metal paint 750ML <strong>£18</strong></li>
+ <li>1 x Small screws 200 pack <strong>£2</strong></li>
 </ul>
 
 <h3>Bought Electronics</h3>
