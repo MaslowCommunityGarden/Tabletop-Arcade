@@ -8,9 +8,9 @@
 
 <h3>Bought Electronics</h3>
 <ul>
- <li>1 x HDMI to VGA, TechRise Gold Plated High-Speed 1080P Active HDTV HDMI to VGA adapter Converter Male to Female with Audio and Micro USB Charging Cable <strong>£5</strong></li>
-<li>XCSOURCE 2 Sets Zero Delay Arcade Game USB Encoder PC LED Joystick DIY Kit for Mame Jamma & Other Fighting Games AC492 <strong>£50</strong></li>
-<li>Raspberry Pi <strong>£30</strong></li>
+ <li>XCSOURCE 2 Sets Zero Delay Arcade Game USB Encoder PC LED Joystick DIY Kit for Mame Jamma & Other Fighting Games AC492 <strong>£50</strong></li>
+ <li>Raspberry Pi <strong>£30</strong></li>
+ <li>1 x HDMI to VGA adapter Converter Male to Female <strong>£5</strong></li>
  <li>IKEA light strip <strong>£12</strong></li>
 </ul>
 
