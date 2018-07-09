@@ -25,7 +25,9 @@ Please note -
 
 ![Fin](https://raw.githubusercontent.com/MaslowCommunityGarden/Tabletop-Arcade/master/9.jpg?raw=true)
 
-Video playlist of time lapse - [https://www.youtube.com/watch?v=hLfmd4KeHvo&list=PLSQ4rAsfey6ha3e0u7TxElrAMW8STd7OA](https://www.youtube.com/watch?v=hLfmd4KeHvo&list=PLSQ4rAsfey6ha3e0u7TxElrAMW8STd7OA)
+![Front view](https://raw.githubusercontent.com/MaslowCommunityGarden/Tabletop-Arcade/master/front view.jpg?raw=true)
+
+Video of time lapse - [https://www.youtube.com/watch?v=BM8KnmVVrU8](https://www.youtube.com/watch?v=BM8KnmVVrU8)
 
 Hope this helps someone.
 
