@@ -25,7 +25,7 @@ Please note -
 
 ![Fin](https://raw.githubusercontent.com/MaslowCommunityGarden/Tabletop-Arcade/master/9.jpg?raw=true)
 
-![Front view](https://raw.githubusercontent.com/MaslowCommunityGarden/Tabletop-Arcade/master/front view.jpg?raw=true)
+![Front view](https://raw.githubusercontent.com/MaslowCommunityGarden/Tabletop-Arcade/master/front%20view.jpg?raw=true)
 
 Video of time lapse - [https://www.youtube.com/watch?v=BM8KnmVVrU8](https://www.youtube.com/watch?v=BM8KnmVVrU8)
 
