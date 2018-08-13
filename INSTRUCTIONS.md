@@ -1,4 +1,4 @@
-The svg files included cover most of the panels except for the two of the back panels that were cut away from the Maslow. I used lots(>50) of little L brackets to fix the panels together.
+The svg files included cover most of the panels except for the two on the back, these panels were cut away from the Maslow. I used lots(>50) of little L brackets to fix the panels together.
 
 Please note -
 <ul>
